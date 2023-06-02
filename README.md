@@ -4,9 +4,11 @@
 
 ***点个⭐支持一下！***
 
-该模板基于 [UESTC-Beamer](https://www.overleaf.com/latex/templates/uestc-beamer-theme/ybqzdsgvrfdq).
+此项目提供用于排版桂林电子科技大学用于毕业答辩，组会报告等相关场景的Beamer模板，旨在帮助桂林电子科技大学师生高效地完成演示幻灯片的制作。
 
-该模板可用于毕业答辩，组会报告等，欢迎各位老师同学们使用该模板。
+该模板基于 [UESTC-Beamer](https://www.overleaf.com/latex/templates/uestc-beamer-theme/ybqzdsgvrfdq)修改而来。
+
+
 
 ## 下载
 [Gitee仓库链接](https://gitee.com/metaljack666/Guet_LATEX_Thesis_Template)
