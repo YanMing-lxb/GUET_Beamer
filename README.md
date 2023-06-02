@@ -1,5 +1,5 @@
-# Guet_Beamer_Theme
-本模板为桂林电子科技大学Beamer模板
+# Guet_Beamer_Theme-桂林电子科技大学Beamer模板
+
 [![](https://img.shields.io/badge/license-LPPL-blue)](https://www.latex-project.org/lppl/) [![](https://img.shields.io/github/last-commit/YanMing-lxb/Guet_Beamer_Theme)](https://github.com/YanMing-lxb/Guet_Beamer_Theme/zipball/master) [![](https://img.shields.io/github/issues/YanMing-lxb/Guet_Beamer_Theme)](https://github.com/YanMing-lxb/Guet_Beamer_Theme/issues)
 
 ***点个⭐支持一下！***
