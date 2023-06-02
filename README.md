@@ -11,9 +11,9 @@
 
 
 ## 下载
-[Gitee仓库链接](https://gitee.com/metaljack666/Guet_LATEX_Thesis_Template)
+[Gitee地址](https://gitee.com/metaljack666/Guet_LATEX_Thesis_Template)
 
-[Github仓库链接](https://gitee.com/metaljack666/Guet_Beamer_Theme)
+[Github地址](https://gitee.com/metaljack666/Guet_Beamer_Theme)
 
 ## 相关项目
 桂林电子科技大学硕博毕业论文模板：[Guet_LATEX_Thesis_Template](https://github.com/YanMing-lxb/Guet_LATEX_Thesis_Template)
