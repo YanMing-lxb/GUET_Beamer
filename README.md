@@ -16,16 +16,16 @@
  *  -----------------------------------------------------------------------
  * Author       : 焱铭
  * Date         : 2023-07-19 13:15:30 +0800
- * LastEditTime : 2023-07-30 16:18:04 +0800
+ * LastEditTime : 2023-07-30 17:04:08 +0800
  * Github       : https://github.com/YanMing-lxb/
  * FilePath     : \GUET_Beamer\README.md
  * Description  : 
  *  -----------------------------------------------------------------------
  -->
 
-# Guet_Beamer-桂林电子科技大学Beamer模板
+# GUET_Beamer-桂林电子科技大学Beamer模板
 
-[![](https://img.shields.io/badge/license-LPPL-blue)](https://www.latex-project.org/lppl/) [![](https://img.shields.io/github/last-commit/GUET-TeX-Users-Group/Guet_Beamer)](https://github.com/GUET-TeX-Users-Group/Guet_Beamer/zipball/master) [![](https://img.shields.io/github/issues/GUET-TeX-Users-Group/Guet_Beamer)](https://github.com/GUET-TeX-Users-Group/Guet_Beamer/issues) ![Downloads latest release](https://img.shields.io/github/downloads/GUET-TeX-Users-Group/Guet_Beamer/latest/total?color=blueviolet)
+[![](https://img.shields.io/badge/license-LPPL-blue)](https://www.latex-project.org/lppl/) [![](https://img.shields.io/github/last-commit/GUET-TeX-Users-Group/GUET_Beamer)](https://github.com/GUET-TeX-Users-Group/GUET_Beamer/zipball/master) [![](https://img.shields.io/github/issues/GUET-TeX-Users-Group/GUET_Beamer)](https://github.com/GUET-TeX-Users-Group/GUET_Beamer/issues) ![Downloads latest release](https://img.shields.io/github/downloads/GUET-TeX-Users-Group/GUET_Beamer/latest/total?color=blueviolet)
 
 ***点个⭐支持一下！***
 
@@ -36,12 +36,12 @@
 
 
 ## 下载
-[Gitee地址](https://gitee.com/metaljack666/Guet_Beamer)
+[Gitee地址](https://gitee.com/metaljack666/GUET_Beamer)
 
-[Github地址](https://github.com/GUET-TeX-Users-Group/Guet_Beamer)
+[Github地址](https://github.com/GUET-TeX-Users-Group/GUET_Beamer)
 
 ## 相关项目
-桂林电子科技大学硕博毕业论文模板：[Guet_Thesis_LaTeX](https://github.com/GUET-TeX-Users-Group/Guet_Thesis_LaTeX)
+桂林电子科技大学硕博毕业论文模板：[GUET_Thesis_LaTeX](https://github.com/GUET-TeX-Users-Group/GUET_Thesis_LaTeX)
 
 ## 使用方法
 
